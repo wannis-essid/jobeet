@@ -1,5 +1,4 @@
 <?php
-lkjdshlfkjhlfkh
 namespace Ens\JobeetBundle\Entity;
 
 /**
