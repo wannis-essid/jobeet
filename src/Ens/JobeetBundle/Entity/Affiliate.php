@@ -1,4 +1,5 @@
 <?php
+test test test
 
 namespace Ens\JobeetBundle\Entity;
 
